@@ -1,5 +1,1 @@
 # Flight Delay Indicators
-
-
-
-
